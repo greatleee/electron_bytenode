@@ -29,7 +29,7 @@
     "bytenode": "^1.1.5"
   },
   "devDependencies": {
-    "electron": "^7.1.1",
+    "electron": "^7.2.4",
     "electron-builder": "^22.3.2"
   }
 }
